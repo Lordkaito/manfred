@@ -337,6 +337,12 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Me encantaría poder trabajar con un stack similar al que actualmente conozco para poder perfeccionarlo un poco más y subir de nivel, aunque no estoy cerrado a aprender nuevas tecnologías. También, la empresa me gustaría que me diera desafíos además de motivación para poder cumplir estos mismos, y sobre todo que me dieran confianza para demostrar el potencial que tengo. A poder ser, evitar código legacy y poder tener cierta influencia en las decisiones que se tomen."
   }
 }
